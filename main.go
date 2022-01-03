@@ -93,3 +93,37 @@ func test() {
 // rune uint32
 // uint uint
 // uintptr uintptr
+// float32 float64
+
+// Operators in Go
+// Arithmetic operators
+// - Addition
+// - Subtraction
+// - Multiplication
+// - Division
+// - Modulus
+// - Exponent
+
+// What is this =:?
+// Short declaration operator.
+// Learn more here https://go.dev/tour/basics/10
+
+func calculate() {
+	a := 10
+	b := 5
+
+	fmt.Println(a + b)
+	fmt.Println(a - b)
+	fmt.Println(a * b)
+	fmt.Println(a / b)
+	fmt.Println(a % b)
+	fmt.Println(a ^ b)
+
+}
+
+// Bit operators
+// &
+// |
+// ^
+// <<
+// >>
