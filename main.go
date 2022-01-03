@@ -127,3 +127,13 @@ func calculate() {
 // ^
 // <<
 // >>
+
+// Bit Shift Operators
+// <<
+// >>
+// &^
+
+// Logical operators
+// &&
+// ||
+// !
