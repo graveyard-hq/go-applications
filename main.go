@@ -6,7 +6,7 @@ import (
 
 var year int = 2022 // This is a variable.
 
-// main function is the entry point of a Go program.s
+// main function is the entry point of a Go program
 func main() {
 	fmt.Printf("Hello")
 }
