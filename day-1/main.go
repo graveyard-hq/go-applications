@@ -19,6 +19,6 @@ func main() {
 	fmt.Println(Person{
 		name:    "Aelpxy",
 		age:     15,
-		country: "United Kingdom",
+		country: "null",
 	})
 }
