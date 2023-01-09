@@ -1,2 +1,3 @@
-# go-example
-Some stuff that might be helpful
+# go-applications
+
+Some applications that might be helpful.
