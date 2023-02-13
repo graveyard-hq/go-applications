@@ -11,7 +11,7 @@ func min(a, b int) int {
 	return b
 }
 
-unc FibonacciSearch(arr []int, x int) int {
+func FibonacciSearch(arr []int, x int) int {
 	n := len(arr)
 	var fib2 = 0
 	var fib1 = 1
