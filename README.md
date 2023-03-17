@@ -1,3 +1,4 @@
 # go-applications
 
-Some applications that might be helpful.
+This repository contains sample Go applications, as well as a selection of algorithmic implementations
+
